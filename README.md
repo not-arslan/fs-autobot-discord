@@ -8,6 +8,6 @@ An AI-powered universal market analysis bot that generates smart trading ideas d
 - Easy deployment (Replit, Railway, or local)
 
 ## Setup
-1. Fill in your `.env` file
+1. Copy `.env.example` to `.env` and fill in your API keys
 2. Run `pip install -r requirements.txt`
-3. Run the bot with `python bot.py`
+3. Start the bot with `python bot.py`
